@@ -1,7 +1,3 @@
-Sure, here's a simple README file for your gender classifier:
-
----
-
 # Gender Classifier
 
 This is a simple gender classifier built using scikit-learn, a popular machine learning library in Python.
